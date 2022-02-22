@@ -17,7 +17,7 @@ pip install helloheart-airflow-utils
 Install latest development version, clone the repository and install using Poetry:
 
 ```bash
-git clone https://<helloheart-airflow-utils_repo_url>
+git clone https://github.com/Hello-Heart/helloheart-airflow-utils
 cd helloheart-airflow-utils
 poetry install
 ```
