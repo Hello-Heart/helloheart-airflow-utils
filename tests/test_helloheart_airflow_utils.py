@@ -8,7 +8,7 @@ from helloheart_airflow_utils.logging import log_config
 
 def test_version():
     """Tests that the __version__ attribute is correct"""
-    assert __version__ == "0.1.0"
+    assert __version__ == "0.2.0"
 
 
 def test_logging_config():
