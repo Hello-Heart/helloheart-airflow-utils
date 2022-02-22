@@ -1,5 +1,15 @@
 # Changelog
 
+<a name="0.2.2"></a>
+## ([0.2.2](https://github.com/Hello-Heart/helloheart-airflow-utils/compare/057581bf06dcbc197361c13b902d0daaad6a4356...0.2.2)) (2022-02-22)
+
+### CI
+- fix pypipublish workflow. [33d30cf](https://github.com/Hello-Heart/helloheart-airflow-utils/commit/33d30cf328a16f2b066f730709944b9e6c421425)
+<a name="0.2.1"></a>
+## ([0.2.1](https://github.com/Hello-Heart/helloheart-airflow-utils/compare/057581bf06dcbc197361c13b902d0daaad6a4356...0.2.1)) (2022-02-22)
+
+### CI
+- publish to PyPi on release. [df7c351](https://github.com/Hello-Heart/helloheart-airflow-utils/commit/df7c351cad4bcaecfbb12d08e673bf1609fcc4a5)
 <a name="0.2.0"></a>
 ## ([0.2.0](https://github.com/Hello-Heart/helloheart-airflow-utils/compare/057581bf06dcbc197361c13b902d0daaad6a4356...0.2.0)) (2022-02-22)
 
