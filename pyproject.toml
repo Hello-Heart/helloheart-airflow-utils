@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "helloheart-airflow-utils"
-version = "0.0.0"
+version = "0.1.0"
 description = "Apache Airflow Utilities"
 readme = "README.md"
 authors = ["Ory Jonay <ory.jonay@helloheart.com>"]
