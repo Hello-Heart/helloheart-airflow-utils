@@ -8,8 +8,10 @@ license = "MIT"
 homepage = "https://github.com/Hello-Heart/helloheart-airflow-utils"
 
 [tool.poetry.dependencies]
-python = "^3.6.2,<3.9"
-apache-airflow = "<=1.10.12"
+python = "^3.6.2,<3.12"
+apache-airflow = "<=1.10.15"
+wtforms = "<=2.3.3"
+markupsafe = "<=2.0.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.0.1"
